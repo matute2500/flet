@@ -1,0 +1,232 @@
+[
+  {
+    "CODIGO": "51004681L",
+    "NOMBRE": "DANIEL",
+    "APELLIDOS": "ARTERO LERMA",
+    "F_NAC": "03-02-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 1,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "70285205B",
+    "NOMBRE": "DAVID",
+    "APELLIDOS": "BALLESTEROS BERMEJO",
+    "F_NAC": "31-03-2006",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 2,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "53857020J",
+    "NOMBRE": "JAVIER",
+    "APELLIDOS": "BENITO GONZALEZ",
+    "F_NAC": "28-06-2007",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 3,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "07096897V",
+    "NOMBRE": "ISMAEL",
+    "APELLIDOS": "BENJAFAR EL HORFI",
+    "F_NAC": "08-01-2005",
+    "F_REC": "30-11-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 4,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54297315L",
+    "NOMBRE": "ANAS",
+    "APELLIDOS": "BOUKDIDI EL AJOUDI",
+    "F_NAC": "27-01-2006",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 5,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54537698Y",
+    "NOMBRE": "ALVARO",
+    "APELLIDOS": "CENDON PAEZ",
+    "F_NAC": "17-03-2006",
+    "F_REC": "31-12-2025",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 6,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "06031415X",
+    "NOMBRE": "ALEJANDRO",
+    "APELLIDOS": "DIEZ DE LA ROCHA",
+    "F_NAC": "14-02-2006",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 7,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "05733012D",
+    "NOMBRE": "BILAL",
+    "APELLIDOS": "EL AOUMRANI BOUKDIDI",
+    "F_NAC": "28-12-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 8,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "53992966Y",
+    "NOMBRE": "DAVID",
+    "APELLIDOS": "GARCIA GOMEZ",
+    "F_NAC": "03-02-2006",
+    "F_REC": "28-02-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 9,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54026531Z",
+    "NOMBRE": "JORGE",
+    "APELLIDOS": "GARCIA MENOR",
+    "F_NAC": "04-09-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 10,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "51508727C",
+    "NOMBRE": "JAVIER",
+    "APELLIDOS": "HERNANDEZ GARCIA ABADILLO",
+    "F_NAC": "07-07-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 11,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54479781A",
+    "NOMBRE": "IKER",
+    "APELLIDOS": "HERNANDEZ LOPEZ",
+    "F_NAC": "03-10-2006",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 12,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "02575216K",
+    "NOMBRE": "DAVID",
+    "APELLIDOS": "HERNANDEZ ZAMORANO",
+    "F_NAC": "28-03-2005",
+    "F_REC": "31-01-2025",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 13,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54479308J",
+    "NOMBRE": "CARLOS",
+    "APELLIDOS": "LUCIAÑEZ CORRALES",
+    "F_NAC": "29-08-2005",
+    "F_REC": "31-12-2025",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 14,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "06705429D",
+    "NOMBRE": "ERIC",
+    "APELLIDOS": "LUGO RODRIGUEZ",
+    "F_NAC": "19-08-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 15,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "11087665D",
+    "NOMBRE": "JORGE",
+    "APELLIDOS": "MARTIN IGLESIAS",
+    "F_NAC": "11-07-2006",
+    "F_REC": "31-01-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 16,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "02776084F",
+    "NOMBRE": "MARC",
+    "APELLIDOS": "PEREZ PARDO",
+    "F_NAC": "24-02-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 17,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "70273138L",
+    "NOMBRE": "ANDRES",
+    "APELLIDOS": "POZAS HERNANZ",
+    "F_NAC": "09-05-2006",
+    "F_REC": "28-02-2025",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 18,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "11088067C",
+    "NOMBRE": "GUILLERMO",
+    "APELLIDOS": "POZAS MARTIN",
+    "F_NAC": "06-03-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 19,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "51224010C",
+    "NOMBRE": "DANIEL",
+    "APELLIDOS": "RODRIGUEZ TAILLET",
+    "F_NAC": "30-07-2007",
+    "F_REC": "31-01-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 20,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54209090E",
+    "NOMBRE": "DANIEL",
+    "APELLIDOS": "RUBIO FLANDEZ",
+    "F_NAC": "08-04-2005",
+    "F_REC": "31-12-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 21,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "53935205K",
+    "NOMBRE": "EVAN",
+    "APELLIDOS": "RUIZ MORLANDSTOE",
+    "F_NAC": "27-07-2006",
+    "F_REC": "28-02-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 22,
+    "MINUTOS": 0
+  },
+  {
+    "CODIGO": "54537768F",
+    "NOMBRE": "IGNACIO",
+    "APELLIDOS": "SAURA FLEITAS",
+    "F_NAC": "07-11-2005",
+    "F_REC": "28-02-2024",
+    "CONVOCATORIA": "NC",
+    "DORSAL": 23,
+    "MINUTOS": 0
+  }
+]
